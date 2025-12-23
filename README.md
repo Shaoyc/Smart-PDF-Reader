@@ -107,5 +107,10 @@ MIT License — 免费用于个人及商业项目。
 
 ---
 
-**作者 CSDN**：[https://blog.csdn.net/qq_40902709](https://blog.csdn.net/qq_40902709)  
-**联系邮箱**：shaoycamore@gmail.com
+## 💖 关于作者
+如果你觉得它对你有帮助：
+
+✅ 点个 Star 是最大的鼓励！
+💬 欢迎提 Issue 或 PR，一起让它变得更好
+📧 联系邮箱：shaoycamore@gmail.com
+（可用于合作或反馈建议）
